@@ -1,0 +1,16 @@
+{
+  "name": "encoding-server",
+  "version": "1.0.0",
+  "description": "Simple Encoding test server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-accept": "^0.1.6",
+    "iconv": "^2.2.1"
+  }
+}
